@@ -28,7 +28,7 @@ aws --version
 
 ### 🔧 Configure AWS Credentials
 
-Input your AWS Credentials in `env.local`
+Input your AWS Credentials in `env.local` make sure you have required IAM Permissions
 
 ```env
 AWS_ACCESS_KEY_ID=
